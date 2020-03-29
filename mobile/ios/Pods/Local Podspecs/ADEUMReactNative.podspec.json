@@ -1,0 +1,25 @@
+{
+  "name": "ADEUMReactNative",
+  "version": "20.3.1",
+  "summary": "Real User Monitoring for React Native with AppDynamics",
+  "homepage": "https://docs.appdynamics.com",
+  "license": "Apache-2.0",
+  "authors": {
+    "AppDynamics": "info@appdynamics.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "path": "ADEUMReactNative/**/*.{h,m}"
+  },
+  "preserve_paths": "**/*.js",
+  "dependencies": {
+    "React": [
+
+    ],
+    "AppDynamicsAgent": [
+
+    ]
+  }
+}
